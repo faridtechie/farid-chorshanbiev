@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @farid-chorshanbiev
 - 👀 I’m interested in tech and all related new opportunities
-- 🌱 I’m currently learning Competative coding , enhensing my full stuck skills and am open for oobtaining new skills from my work stack
-- 💞️ I’m looking to collaborate with a like minded folks
+- 🌱 I’m currently learning Competitive coding, enhancing my full stuck skills, and am open to obtaining new skills from my work stack
+- 💞️ I’m looking to collaborate with like-minded folks
 - 📫 How to reach me:
-Instagram: @f_chorshanbiev 
+Instagram: @faridtechie_eng
 Linkedin: https://www.linkedin.com/in/farid-chorshanbiev-0a2514193
 
 <!---
